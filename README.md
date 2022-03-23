@@ -1,2 +1,4 @@
 # MetodoBisseccao
-Método da bissecção feito em aula para a matéria de cálculo
+Método da bissecção feito em aula para a matéria de cálculo.
+
+- Teste
